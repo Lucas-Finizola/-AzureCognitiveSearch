@@ -54,11 +54,13 @@ Inicialmente, o serviço utiliza três componentes principais:
 
 ### Configuração Visual
 - Etapa 1:
-  ![Etapa 1](https://github.com/user-attachments/assets/fbfbf823-764b-4eaa-88db-fa9e735b7218)
+ ![Captura de tela_20250127_174023](https://github.com/user-attachments/assets/fae8f5b1-a487-4ebd-85ae-b4033fb6ea14)
+
 - Etapa 2:
-  ![Etapa 2](https://github.com/user-attachments/assets/6637e54a-bde1-42fe-a764-a86ede587991)
+  ![Captura de tela_20250127_175726](https://github.com/user-attachments/assets/d28572bf-9b66-4ecc-99d6-f6f609b18fe2)
 - Etapa 3:
-  ![Etapa 3](https://github.com/user-attachments/assets/080ec556-9091-41a7-ba52-874105ba57db)
+  ![Captura de tela_20250127_180424](https://github.com/user-attachments/assets/fab6dd68-65f4-4dc7-8e7e-af88ce6940ea)
+
 
 Todos os campos devem ser preenchidos conforme o passo a passo apresentado no tutorial.
 
