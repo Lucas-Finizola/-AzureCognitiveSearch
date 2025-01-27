@@ -54,7 +54,7 @@ Inicialmente, o serviço utiliza três componentes principais:
 
 ### Configuração Visual
 - Etapa 1:
-  ![Captura de tela_20250127_174023](https://github.com/user-attachments/assets/fae8f5b1-a487-4ebd-85ae-b4033fb6ea14)
+  
 - Etapa 2:
   ![Captura de tela_20250127_175726](https://github.com/user-attachments/assets/d28572bf-9b66-4ecc-99d6-f6f609b18fe2)
 - Etapa 3:
